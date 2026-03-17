@@ -1,3 +1,3 @@
 function saludo(nombre,mensaje){
-    console.log("Mensaje desde main");
+    console.log("Mensaje desde main, q boludo");
 }
