@@ -1,3 +1,3 @@
 function saludo(nombre,mensaje){
-    console.log(mensaje + ", " + nombre + "!");
+    console.log("Mensaje desde la rama conflicto");
 }
